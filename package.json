@@ -2,6 +2,7 @@
   "name": "nestjs-docs",
   "version": "1.0.0",
   "license": "MIT",
+  "homepage": "https://armor.github.com/ngnest",
   "scripts": {
     "ng": "ng",
     "prestart": "npm run docs",
